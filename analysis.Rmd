@@ -1,0 +1,29 @@
+---
+title: "Ex1"
+author: "Wassnaa Al-Mawee"
+date: "1/8/2025"
+output: word_document
+---
+
+# Exploring Markdown Syntax and R Functions
+
+### 1. Table Creation Using Markdown
+
+| Column 1    | Column 2    |
+|:------------|:------------|
+| Cell 1, Row 1 | Cell 2, Row 1 |
+| Cell 1, Row 2 | Cell 2, Row 2 |
+
+
+### 2. Attaching a Hyperlink
+
+[Link to Github](https://github.com/rekhaWMU/R-File-Modification) 
+
+
+### 3. Inserting an Image
+
+![Hey](https://www.google.com/imgres?q=hey&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F005%2F177%2F054%2Fnon_2x%2Fhey-comic-onomatopoeia-free-vector.jpg&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fhey&docid=55o_yEr7eMvrYM&tbnid=wii5t6L2XSaFTM&vet=12ahUKEwjU24vjhvSKAxWS4MkDHWkWJMUQM3oECE4QAA..i&w=980&h=980&hcb=2&ved=2ahUKEwjU24vjhvSKAxWS4MkDHWkWJMUQM3oECE4QAA)
+
+![WMU Logo](/Users/rekhashrestha/Desktop/WMU primary coated cmyk.pdf)
+
+
